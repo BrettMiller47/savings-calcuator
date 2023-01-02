@@ -24,6 +24,7 @@ A template for determining a rough estimation of savings given an inputted salar
   </li>
   <li>
     Add in any missing expenses that apply.  This can be accomplished by inserting a missing expense in the list of expenses, then changing the formula in the <em>total expenses</em> cell to include the addition of this new expense.
+  <br></br>
     <img src="./images/missing-expense.png"></img>
   </li>
 </ol>
