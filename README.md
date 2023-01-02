@@ -3,7 +3,7 @@ A template for roughly estimating take-home savings given an inputted salary, st
 
 ![example.png](./images/example.png)
 
-## Overview of Tabs
+## Excel Workbook Tabs
 
 <ul>
   <li>Table of Contents</li>
