@@ -34,8 +34,8 @@ A template for roughly estimating take-home savings given an inputted salary, st
 ## Features / Best Practices
 
 <ul>
+  <b>Appropriate Cell Styling</b>
   <li>
-    <b>Appropriate Cell Styling</b>
     Cells are styled based on the cell's purpose.  Inputs, calculations, outputs, and linked cells are styles included in this workbook.
   </li>
   <li>
