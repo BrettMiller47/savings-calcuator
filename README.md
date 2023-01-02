@@ -33,7 +33,8 @@ A template for roughly estimating take-home savings given an inputted salary, st
 
 ## Features / Best Practices
 
-<u>Appropriate Cell Styling</u>
+<b>Appropriate Cell Styling</b>
+  <li></li>
   <p>Cells are styled based on the cell's purpose.  Inputs, calculations, outputs, and linked cells are styles included in this workbook.</p>
 <u><b>Named Cells</b></u>
   <p>Cells are named using the keyboard shortcut <em>Shift+F3</em>.  This allows for the use of the cell as if it represents a variable.  The primary benefit of naming a cell is to increase readability in formulas that utilize that cell.</p>
