@@ -1,5 +1,5 @@
 # savings-calculator
-A template for determining a rough estimation of savings given an inputted salary.  Not all expenses included in the calculations, so adjust the template as needed. 
+A template for roughly estimating take-home savings given an inputted salary, state/local tax rate, and list of expenses.  Not all expenses included in the calculations, so adjust the template as needed.
 
 ![example.png](./images/example.png)
 
